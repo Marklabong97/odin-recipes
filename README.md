@@ -1,1 +1,2 @@
 # odin-recipes
+I'll be making a simple recipe website that uses text based element like paragraph, heading, strong, and em element.I'll be using lists, links and images element aswell. Using the command line for creating and navigating directories and files are also important.
